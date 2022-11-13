@@ -6,7 +6,7 @@ plugins {
 
 apply plugin: 'application'
 
-mainClassName = 'main.java.Main'
+mainClassName = 'Main'
 
 
 // In this section you declare where to find the dependencies of your project
