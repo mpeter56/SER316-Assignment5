@@ -25,6 +25,7 @@ hs_err_pid*
 
 # Ignore Gradle project-specific cache directory
 .gradle/
+settings.gradle
 
 # Ignore Gradle build output directory
 build/
@@ -33,3 +34,4 @@ build/
 .classpath
 .project
 .settings/
+.checkstyle
