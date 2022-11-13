@@ -6,8 +6,7 @@ plugins {
 
 apply plugin: 'application'
 
-
-mainClassName = 'Main'
+mainClassName = 'main.java.Main'
 
 
 // In this section you declare where to find the dependencies of your project
@@ -28,7 +27,6 @@ jacoco {
 
 
 test {
-	exclude '**/BlackBoxGiven.class'
 
 }
 
