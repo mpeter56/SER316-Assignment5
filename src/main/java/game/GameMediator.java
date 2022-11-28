@@ -209,7 +209,6 @@ public class GameMediator implements Mediator, Subject {
             System.out.println("Time to get some rest!");
             return true;
         } else {
-            System.out.println("here");
             return false;
         }
 
