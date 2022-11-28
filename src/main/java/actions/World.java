@@ -10,9 +10,9 @@ import main.java.game.Mediator;
 import main.java.trainer.Trainer;
 import main.java.trainer.TrainerFactory;
 
-// fulfills requirement 1: A new world must start with a number of trainers, at least 2, each of them starts
-//with at least one code-a-mon. You can also decide to have trainners join in time if
-//you like.
+// fulfills requirement 1: A new world must start with a number of trainers, at least 2, 
+// each of them starts with at least one code-a-mon. You can also decide to have trainners join in 
+// time if you like.
 public class World {
     Mediator mediator;
     ArrayList<CodeAMon> wildCam;

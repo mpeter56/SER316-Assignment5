@@ -1,5 +1,10 @@
 # SER316-Assignment5
 
+## Screencast
+
+## Repository
+https://github.com/mpeter56/SER316-Assignment5
+
 ## Pattern 1
 I used the factory pattern to generate random attacks, evolutions, types, CodeAMon and different 
 levels of trainers.
